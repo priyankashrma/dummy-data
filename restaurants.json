@@ -1,182 +1,188 @@
 [
-  {
-    "id": "r1",
-    "name": "The Curry Leaf",
-    "location": "Mumbai",
-    "rating": 4.5,
-    "cuisine": ["Indian", "North Indian", "Tandoor"],
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
-  },
-  {
-    "id": "r2",
-    "name": "Sushi Zen",
-    "location": "Bangalore",
-    "rating": 4.7,
-    "cuisine": ["Japanese", "Asian"],
-    "deliveryTime": "45 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
-  },
-  {
-    "id": "r3",
-    "name": "Tandoori Flame",
-    "location": "Delhi",
-    "rating": 4.2,
-    "cuisine": ["Indian", "Barbecue", "Tandoor"],
-    "deliveryTime": "25 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
-  },
-  {
-    "id": "r4",
-    "name": "Spice Symphony",
-    "location": "Chennai",
-    "rating": 4.6,
-    "cuisine": ["Indian", "Vegetarian"],
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Z74Q1y-SKh4Mx6xg38O5fQHaE8?pid=Api"
-  },
-  {
-    "id": "r5",
-    "name": "The Glass House",
-    "location": "Goa",
-    "rating": 4.3,
-    "cuisine": ["Continental", "Seafood"],
-    "deliveryTime": "35 mins",
-    "imageUrl": "https://raw.githubusercontent.com/piyushpawar123/dummy-data/main/restaurants.json"
-  },
-  {
-    "id": "r6",
-    "name": "Dine In Style",
-    "location": "Hyderabad",
-    "rating": 4.4,
-    "cuisine": ["Italian", "Pasta"],
-    "deliveryTime": "40 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
-  },
-  {
-    "id": "r7",
-    "name": "Burger Queen",
-    "location": "Kolkata",
-    "rating": 4.0,
-    "cuisine": ["American", "Fast Food"],
-    "deliveryTime": "20 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
-  },
-  {
-    "id": "r8",
-    "name": "Taco Town",
-    "location": "Pune",
-    "rating": 4.1,
-    "cuisine": ["Mexican", "Tacos"],
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
-  },
-  {
-    "id": "r9",
-    "name": "Pasta Palace",
-    "location": "Chandigarh",
-    "rating": 4.7,
-    "cuisine": ["Italian", "Pasta"],
-    "deliveryTime": "35 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
-  },
-  {
-    "id": "r10",
-    "name": "Sizzle & Spice",
-    "location": "Surat",
-    "rating": 4.4,
-    "cuisine": ["Indian", "Barbecue"],
-    "deliveryTime": "40 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Z74Q1y-SKh4Mx6xg38O5fQHaE8?pid=Api"
-  },
-  {
-    "id": "r11",
-    "name": "Pizza Express",
-    "location": "Bhopal",
-    "rating": 4.6,
-    "cuisine": ["Italian", "Pizza"],
-    "deliveryTime": "20 mins",
-    "imageUrl": "https://raw.githubusercontent.com/piyushpawar123/dummy-data/main/restaurants.json"
-  },
-  {
-    "id": "r12",
-    "name": "Cafe Nirvana",
-    "location": "Indore",
-    "rating": 4.2,
-    "cuisine": ["Cafe", "Continental"],
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
-  },
-  {
-    "id": "r13",
-    "name": "The Vegan Bowl",
-    "location": "Jaipur",
-    "rating": 4.1,
-    "cuisine": ["Vegan", "Vegetarian"],
-    "deliveryTime": "25 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
-  },
-  {
-    "id": "r14",
-    "name": "Royal Dumplings",
-    "location": "Lucknow",
-    "rating": 4.3,
-    "cuisine": ["Chinese", "Dumplings"],
-    "deliveryTime": "35 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
-  },
-  {
-    "id": "r15",
-    "name": "Peking Duck House",
-    "location": "Ahmedabad",
-    "rating": 4.8,
-    "cuisine": ["Chinese", "Duck"],
-    "deliveryTime": "45 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
-  },
-  {
-    "id": "r16",
-    "name": "Curry & Tandoor",
-    "location": "Agra",
-    "rating": 4.4,
-    "cuisine": ["Indian", "Tandoor"],
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Z74Q1y-SKh4Mx6xg38O5fQHaE8?pid=Api"
-  },
-  {
-    "id": "r17",
-    "name": "Wok & Roll",
-    "location": "Gurgaon",
-    "rating": 4.6,
-    "cuisine": ["Asian", "Chinese"],
-    "deliveryTime": "25 mins",
-    "imageUrl": "https://raw.githubusercontent.com/piyushpawar123/dummy-data/main/restaurants.json"
-  },
-  {
-    "id": "r18",
-    "name": "The Italian Stallion",
-    "location": "Noida",
-    "rating": 4.5,
-    "cuisine": ["Italian", "Pizza"],
-    "deliveryTime": "40 mins",
-    "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
-  },
-  {
-    "id": "r19",
-    "name": "The Sizzling Stone",
-    "location": "Patna",
-    "rating": 4.2,
-    "cuisine": ["Indian", "Barbecue"],
-    "deliveryTime": "30 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
-  },
-  {
-    "id": "r20",
-    "name": "Bowl'd Over",
-    "location": "Chandigarh",
-    "rating": 4.3,
-    "cuisine": ["American", "Fast Food"],
-    "deliveryTime": "20 mins",
-    "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
-  }
+    {
+        "id": "r1",
+        "name": "The Curry Leaf",
+        "location": "Mumbai",
+        "rating": 4.5,
+        "cuisine": ["Indian", "North Indian", "Tandoor"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
+    },
+    {
+        "id": "r2",
+        "name": "Sushi Zen",
+        "location": "Bangalore",
+        "rating": 4.7,
+        "cuisine": ["Japanese", "Asian"],
+        "deliveryTime": "45 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
+    },
+    {
+        "id": "r3",
+        "name": "Tandoori Flame",
+        "location": "Delhi",
+        "rating": 4.2,
+        "cuisine": ["Indian", "Barbecue", "Tandoor"],
+        "deliveryTime": "25 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
+    },
+    {
+        "id": "r4",
+        "name": "Spice Symphony",
+        "location": "Chennai",
+        "rating": 4.6,
+        "cuisine": ["Indian", "Vegetarian"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Z74Q1y-SKh4Mx6xg38O5fQHaE8?pid=Api"
+    },
+    {
+        "id": "r5",
+        "name": "The Royal Dine",
+        "location": "London",
+        "rating": 4.6,
+        "cuisine": ["British", "Contemporary"],
+        "deliveryTime": "45 mins",
+        "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": "r6",
+        "name": "Dine In Style",
+        "location": "Hyderabad",
+        "rating": 4.4,
+        "cuisine": ["Italian", "Pasta"],
+        "deliveryTime": "40 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
+    },
+    {
+        "id": "r7",
+        "name": "Burger Queen",
+        "location": "Kolkata",
+        "rating": 4.0,
+        "cuisine": ["American", "Fast Food"],
+        "deliveryTime": "20 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
+    },
+    {
+        "id": "r8",
+        "name": "Taco Town",
+        "location": "Pune",
+        "rating": 4.1,
+        "cuisine": ["Mexican", "Tacos"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
+    },
+    {
+        "id": "r9",
+        "name": "Pasta Palace",
+        "location": "Chandigarh",
+        "rating": 4.7,
+        "cuisine": ["Italian", "Pasta"],
+        "deliveryTime": "35 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
+    },
+    {
+        "id": "r10",
+        "name": "Green Garden",
+        "location": "San Francisco",
+        "rating": 4.4,
+        "cuisine": ["Vegetarian", "Organic"],
+        "deliveryTime": "35 mins",
+        "imageUrl": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": "r11",
+        "name": "Pizza Express",
+        "location": "Bhopal",
+        "rating": 4.6,
+        "cuisine": ["Italian", "Pizza"],
+        "deliveryTime": "20 mins",
+        "imageUrl": "https://images.unsplash.com/photo-1565399299756-bf9e2fef4683?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": "r12",
+        "name": "Cafe Nirvana",
+        "location": "Indore",
+        "rating": 4.2,
+        "cuisine": ["Cafe", "Continental"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
+    },
+    {
+        "id": "r13",
+        "name": "The Vegan Bowl",
+        "location": "Jaipur",
+        "rating": 4.1,
+        "cuisine": ["Vegan", "Vegetarian"],
+        "deliveryTime": "25 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
+    },
+    {
+        "id": "r14",
+        "name": "Royal Dumplings",
+        "location": "Lucknow",
+        "rating": 4.3,
+        "cuisine": ["Chinese", "Dumplings"],
+        "deliveryTime": "35 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
+    },
+    {
+        "id": "r15",
+        "name": "Le Petite Café",
+        "location": "Montreal",
+        "rating": 4.4,
+        "cuisine": ["French", "Cafe"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": "r16",
+        "name": "Curry & Tandoor",
+        "location": "Agra",
+        "rating": 4.4,
+        "cuisine": ["Indian", "Tandoor"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Z74Q1y-SKh4Mx6xg38O5fQHaE8?pid=Api"
+    },
+    {
+        "id": "r17",
+        "name": "Wok & Roll",
+        "location": "Gurgaon",
+        "rating": 4.6,
+        "cuisine": ["Asian", "Chinese"],
+        "deliveryTime": "25 mins",
+        "imageUrl": "https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": "r18",
+        "name": "The Italian Stallion",
+        "location": "Noida",
+        "rating": 4.5,
+        "cuisine": ["Italian", "Pizza"],
+        "deliveryTime": "40 mins",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.1IF9sQRQlOu15Mx6penfrQHaEJ?pid=Api"
+    },
+    {
+        "id": "r19",
+        "name": "The Sizzling Stone",
+        "location": "Patna",
+        "rating": 4.2,
+        "cuisine": ["Indian", "Barbecue"],
+        "deliveryTime": "30 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.UhiJJZgbdFkQYKh5VhwAMQHaEJ?pid=Api"
+    },
+    {
+        "id": "r20",
+        "name": "Bowl'd Over",
+        "location": "Chandigarh",
+        "rating": 4.3,
+        "cuisine": ["American", "Fast Food"],
+        "deliveryTime": "20 mins",
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.EBmIX5_5LMPaDsSoTYViHQHaGF?pid=Api"
+    }
 ]
+
+
+
+
+
+
